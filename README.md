@@ -1,2 +1,0 @@
-# Manazil-Alwed
-Booking websites 
